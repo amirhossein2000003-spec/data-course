@@ -295,15 +295,20 @@
     "name": "Amirhossein Eslamian",
     "avatar": "https://github.com/AmirhosseinEslamian.png"
   },
-{
-  "name": "زهرا پورشیخعلی",
-  "linkedin": "www.linkedin.com/in/zahra-poursheikhali-5137a519b",
-  "avatar": "https://github.com/Zahra_PSA.png",
-  "education": [
-    " کارشناسی ریاضیات و کاربردها، دانشگاه صنعتی امیرکبیر"
-  ],
-  "experience": [
-    "مهندس هوش مصنوعی جونیور"
-  ]
-}
+  {
+    "name": "زهرا پورشیخعلی",
+    "linkedin": "www.linkedin.com/in/zahra-poursheikhali-5137a519b",
+    "avatar": "https://github.com/Zahra_PSA.png",
+    "education": [
+      " کارشناسی ریاضیات و کاربردها، دانشگاه صنعتی امیرکبیر"
+    ],
+    "experience": [
+      "مهندس هوش مصنوعی جونیور"
+    ]
+  },
+  {
+    "name": "Hadis Shamakhteh",
+    "linkedin": "https://www.linkedin.com/in/hadis-shamakhte-679147282",
+    "avatar": "https://github.com/Hadiishee.png"
+  }
 ]
